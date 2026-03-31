@@ -15,7 +15,7 @@ venv/
 env/
 
 # Data — don't ship raw CSVs into production image
-data/
+
 
 # Logs and outputs
 logs/
