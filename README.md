@@ -2,7 +2,7 @@
 
 A production ML system for industrial machinery failure prediction, RUL estimation, and health scoring. Built with Random Forest, XGBoost, and LSTM models, served via a FastAPI REST API deployed on Railway.
 
-**Live API:** `https://predictivemaintenance-v2-production.up.railway.app`  
+**Live API:** [`https://predictivemaintenance-v2-production.up.railway.app` ](https://predictivemaintenancefrontend-v2-production.up.railway.app/) 
 **Interactive Docs:** `https://predictivemaintenance-v2-production.up.railway.app/docs`  
 **Frontend Dashboard:** `https://predictivemaintenancefrontend-v2-production.up.railway.app`
 
